@@ -9,6 +9,7 @@
     background-color: #333;
     margin: 6px 0;
     transition: 0.4s;
+    border-radius: 5px;
 }
 
 .change .bar1 {
@@ -19,4 +20,11 @@
 
 .change .bar3 {
     transform: translate(0, -11px) rotate(45deg);
+}
+
+.karla {
+    font-family: "Karla", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
 }
